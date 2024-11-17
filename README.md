@@ -14,5 +14,5 @@ A simple event countdown page with options for specific dates like New Year’s 
 ## Installation & Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/countdown.git](https://github.com/SeeJia/countdown.git)
-   cd event-countdown
+   git clone [https://github.com/your-username/countdown.git]
+   cd countdown

@@ -11,6 +11,9 @@ A simple event countdown page with options for specific dates like New Year’s 
 ## Figma Design
 You can view the Figma design for this project here: [Figma Design](https://www.figma.com/design/pj5QcHjsfAoncppMdNWeBy/CountDown?node-id=0-1&t=wK92ywjktPpPnbI0-1)
 
+## Screenshot
+![countdown_img](images/countdown_screenshot.png)
+
 ## Installation & Run
 1. Clone the repository:
    ```bash

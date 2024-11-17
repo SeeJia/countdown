@@ -9,7 +9,7 @@ A simple event countdown page with options for specific dates like New Year’s 
 - Display additional countdown info with a “More Detail” button
 
 ## Figma Design
-[Figma Design](https://www.figma.com/design/pj5QcHjsfAoncppMdNWeBy/CountDown?node-id=0-1&t=wK92ywjktPpPnbI0-1)
+You can view the Figma design for this project here: [Figma Design](https://www.figma.com/design/pj5QcHjsfAoncppMdNWeBy/CountDown?node-id=0-1&t=wK92ywjktPpPnbI0-1)
 
 ## Installation & Run
 1. Clone the repository:
